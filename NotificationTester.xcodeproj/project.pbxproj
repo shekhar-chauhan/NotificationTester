@@ -11,6 +11,7 @@
 		D32278802BCC1778001821E2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D322787F2BCC1778001821E2 /* ContentView.swift */; };
 		D32278822BCC1779001821E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D32278812BCC1779001821E2 /* Assets.xcassets */; };
 		D32278852BCC1779001821E2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D32278842BCC1779001821E2 /* Preview Assets.xcassets */; };
+		D322788E2BCC17A6001821E2 /* NotificationTester.swift in Sources */ = {isa = PBXBuildFile; fileRef = D322788D2BCC17A6001821E2 /* NotificationTester.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D322787F2BCC1778001821E2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D32278812BCC1779001821E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D32278842BCC1779001821E2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D322788D2BCC17A6001821E2 /* NotificationTester.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationTester.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D322787D2BCC1778001821E2 /* NotificationTesterApp.swift */,
 				D322787F2BCC1778001821E2 /* ContentView.swift */,
+				D322788D2BCC17A6001821E2 /* NotificationTester.swift */,
 				D32278812BCC1779001821E2 /* Assets.xcassets */,
 				D32278832BCC1779001821E2 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D32278802BCC1778001821E2 /* ContentView.swift in Sources */,
+				D322788E2BCC17A6001821E2 /* NotificationTester.swift in Sources */,
 				D322787E2BCC1778001821E2 /* NotificationTesterApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -267,6 +271,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"NotificationTester/Preview Content\"";
+				DEVELOPMENT_TEAM = FPH4NM5UUW;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -295,6 +300,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"NotificationTester/Preview Content\"";
+				DEVELOPMENT_TEAM = FPH4NM5UUW;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;

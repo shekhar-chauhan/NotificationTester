@@ -11,7 +11,7 @@ import SwiftUI
 struct NotificationTesterApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NotificationTester()
         }
     }
 }
